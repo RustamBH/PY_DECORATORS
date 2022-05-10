@@ -1,0 +1,6 @@
+2022-05-10 19:55:31,213 - Путь к лог-файлу: C:\Users\newuser\PycharmProjects\Mosh\Netology\Decorators\create_folder.log
+2022-05-10 19:55:31,213 - Вызов функции: create_folder с аргументами (<__main__.YaUploader object at 0x0000017EDD1B3C70>, 'netology') и {}
+2022-05-10 19:55:32,620 - Результат: 201
+2022-05-10 19:55:32,621 - Путь к лог-файлу: C:\Users\newuser\PycharmProjects\Mosh\Netology\Decorators\get_info_dir.log
+2022-05-10 19:55:32,622 - Вызов функции: get_info_dir с аргументами (<__main__.YaUploader object at 0x0000017EDD1B3C70>, 'netology') и {}
+2022-05-10 19:55:33,095 - Результат: ('netology', 'dir', 200)
